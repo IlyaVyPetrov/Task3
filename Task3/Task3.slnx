@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Core/Core.csproj" />
+  <Project Path="Shop.Bll/Shop.Bll.csproj" />
+  <Project Path="Shop.Dal/Shop.Dal.csproj" />
+  <Project Path="UI/UI.csproj" />
+</Solution>
